@@ -124,6 +124,4 @@ IDS Threshold = 1 second
 - **Course:** Network Security
 - **Program:** BS Computer Science (CB)
 - **Topic:** Multi-Layer Network Attack Detection and Defense Design
-- **Mapped CLO:** CLO3
 - **WP Attributes:** WP2 (Depth of Analysis), WP3 (Depth of Knowledge)
-- **Due Date:** 25-06-2026
